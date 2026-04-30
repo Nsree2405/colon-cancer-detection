@@ -1,13 +1,9 @@
----
-title: Colon Cancer Detection
-emoji: 💻
-colorFrom: pink
-colorTo: pink
-sdk: gradio
-sdk_version: 6.10.0
-app_file: app.py
-pinned: false
-short_description: Colon cancer detection - binary, multi-tissue, severity
----
+Colon Cancer Detection using Deep Learning
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+This Project consists of Kaggle notebooks of 3 objectives:
+  Binary Classification
+  Multi-class Classification 
+  Severity Grading
+
+Below is my Hugging face deployment of Colon Cancer Detection 
+  https://nsree2405-colon-cancer-detection.hf.space
